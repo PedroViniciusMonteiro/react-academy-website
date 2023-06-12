@@ -4,7 +4,7 @@ nav {
     background: var(--color-primary);
     display: grid;
     place-items: center;
-    position: fixed;
+    position: fixed; 
     top: 0;
     left: 0;
     z-index: 99;
@@ -25,6 +25,7 @@ nav {
 }
 .logo {
     width: 7rem;
+    display: block;
 }
 .nav__links {
     display: flex;
@@ -49,7 +50,7 @@ nav {
     position: absolute;
     left: calc(50% - 0.6rem);
     transform: rotate(45deg);
-    margin-top: 1rem;
+    margin-top: 0.9rem;
 }
 
 /* MEDIA QUERIES (medium and small screens) */
