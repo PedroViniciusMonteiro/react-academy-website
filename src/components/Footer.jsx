@@ -16,10 +16,10 @@ const Footer = () => {
         </Link>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, qui. Perspiciatis doloremque libero commodi est sunt unde praesentium similique accusantium?</p>
         <div className="footer__socials">
-          <a href="https://linkedin.com/" target='_blank' rel='noferrer noopener'><FaLinkedin/></a>
-          <a href="https://facebook.com/" target='_blank' rel='noferrer noopener'><FaFacebookF/></a>
-          <a href="https://twitter.com/" target='_blank' rel='noferrer noopener'><AiOutlineTwitter/></a>
-          <a href="https://instagram.com/" target='_blank' rel='noferrer noopener'><AiFillInstagram/></a>
+          <a href="https://linkedin.com/" target='_blank' rel='noreferrer noopener'><FaLinkedin/></a>
+          <a href="https://facebook.com/" target='_blank' rel='noreferrer noopener'><FaFacebookF/></a>
+          <a href="https://twitter.com/" target='_blank' rel='noreferrer noopener'><AiOutlineTwitter/></a>
+          <a href="https://instagram.com/" target='_blank' rel='noreferrer noopener'><AiFillInstagram/></a>
         </div>
       </article>
       <article>

@@ -15,9 +15,9 @@ const Contact = () => {
     <section className="contact">
       <div className="container contact__container">
         <div className="contact__wrapper">
-          <a href="mailto:pedromonteirosf01@gmail.com" target='_blank' rel='noferrer noopener' ><MdEmail/></a>
-          <a href="https://m.me/pedromonteiro" target='_blank' rel='noferrer noopener' ><BsMessenger/></a>
-          <a href="https://wa.me/+5517997896720" target='_blank' rel='noferrer noopener' ><IoLogoWhatsapp/></a>
+          <a href="mailto:pedromonteirosf01@gmail.com" target='_blank' rel='noreferrer noopener' ><MdEmail/></a>
+          <a href="https://m.me/pedromonteiro" target='_blank' rel='noreferrer noopener' ><BsMessenger/></a>
+          <a href="https://wa.me/+5517997896720" target='_blank' rel='noreferrer noopener' ><IoLogoWhatsapp/></a>
         </div>
       </div>
     </section>
